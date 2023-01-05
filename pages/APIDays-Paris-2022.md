@@ -1,0 +1,3 @@
+Here's the links to the presentation that I gave at API Days, Paris, in December of 2022 with Patrick Brosse from Amadeus. 
+- [API Days - Paris 2022 (ppt)](https://docs.google.com/presentation/d/1-MHt1FADa8wxlA54hrDcRCf5nq6_2uBb/edit?usp=share_link&ouid=104832544643498507666&rtpof=true&sd=true)
+- [API Days - Paris 2022 (mov)](https://drive.google.com/file/d/1XpIoyvLJk10daMQ1Q6SbKkWoksqlAF5S/view?usp=share_link)
